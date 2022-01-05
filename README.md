@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsnourr
 - 👀 I’m interested in Artificial Intelligence, Data Science and Web development
-- 🌱 I’m currently learning DS with Python
+- 🌱 I’m currently learning DS with Python and basics of ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
