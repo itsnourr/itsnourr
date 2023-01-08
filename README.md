@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @itsnourr
-- 👀 I’m interested in Artificial Intelligence, Data Science and Web development
-- 🌱 I’m currently learning DS with Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📚 I'm a first year uni student majoring in Computer Engineering
+- 🤖 I’m interested in Machine Learning, Data Science and App development
+- 💻 I’m currently learning DS with Python and Back End with Java
+- 🌎 I'm also a polyglot who loves learning foreign languages
+- 📫 How to reach me: ...
 
 <!---
 itsnourr/itsnourr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
