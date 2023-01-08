@@ -2,7 +2,8 @@
 - 📚 I'm a first year uni student majoring in Computer Engineering
 - 🤖 I’m interested in Machine Learning, Data Science and App development
 - 💻 I’m currently learning DS with Python and Back End with Java
-- 🌎 I'm also a polyglot who loves learning foreign languages
+- 🔊 I speak Arabic, French, English, Spanish & Turkish
+- 🌎 I'm also currently learning Italian & German 
 - 📫 How to reach me: ...
 
 <!---
